@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello! My name is Zachary Stiefel.
 
 <!--
 **ztstiefel/ztstiefel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Get in touch:
+
+[Send me an email](mailto:ztstiefel@gmail.com)
+
+[Connect on LinkedIn](https://linkedin.com/in/ztstiefel)
